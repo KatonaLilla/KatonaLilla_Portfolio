@@ -7,6 +7,7 @@
 
 ### 1. HR Workforce Analysis (Excel)
 This project focuses on analyzing HR data to answer key business questions related to workforce composition, hiring trends, turnover, performance, and diversity. The analysis was conducted in Excel, using a combination of data cleaning, formula-based calculations, pivot tables, and charts for visualization.
+
 **Tools used:**
 * Excel functions: DATEDIF, INDEX, MATCH, IFS, COUNTIF, SUMIFS, etc.
 * Pivot tables: for data aggregation and grouping
