@@ -20,6 +20,6 @@ This project focuses on analyzing HR data to answer key business questions relat
 ----------------------------------------
 
 ### 2. Customer Orders Analysis (SQL)
-**Tools used:** SQL (MySQL), joins, subqueries, window functions  
+**Tools used:** SQL (PostgreSQL), joins, subqueries, window functions  
 **Summary:** Wrote queries to extract insights from customer orders: average order value, top regions, retention rates.  
-➡️ [View Project](link-to-project-folder)
+
