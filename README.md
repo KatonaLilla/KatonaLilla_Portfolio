@@ -1,6 +1,6 @@
 # Lilla Katona - Data Analytics Portfolio
 
-##This repository showcases a collection of data projects where I demonstrate my skills in **SQL**, **Excel**, and **data visualization**.
+## This repository showcases a collection of data projects where I demonstrate my skills in **SQL**, **Excel**, and **data visualization**.
 Each project is designed to extract insights from raw data, solve real-world problems, and communicate results clearly and effectively.
 ---
 
