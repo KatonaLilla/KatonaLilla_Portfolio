@@ -1,12 +1,13 @@
-# KatonaLilla_Portfolio
-Welcome to my data analytics portfolio. Here I showcase projects that demonstrate my skills in **SQL**, **Excel**, and **data visualization**.
+# Katona Lilla - Data Analytics Portfolio
+Welcome to my data analytics portfolio! This repository showcases a collection of data projects where I demonstrate my skills in **SQL**, **Excel**, and **data visualization**.
+Each project is designed to extract insights from raw data, solve real-world problems, and communicate results clearly and effectively.
 ---
 
 ## 📊 Featured Projects
 
-### 1. Sales Insights Dashboard (Excel)
+### 1. HR Workforce Analysis Dashboard (Excel)
 **Tools used:** Excel, Pivot Tables, Conditional Formatting  
-**Summary:** Analyzed monthly sales data and created an interactive dashboard with key KPIs, trends, and product segmentation.  
+**Goal:** Analyze employee data to monitor workforce trends and support HR strategic planning.
 ➡️ [View Project](link-to-project-folder)
 
 ---
