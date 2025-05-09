@@ -7,7 +7,7 @@ description: >-
 # IMPORTANT: Set baseurl
 # If your repo is "yourusername.github.io", set baseurl to "" (empty string) or "/"
 # If your repo is "yourusername/my-portfolio", set baseurl to "/my-portfolio"
-baseurl: "/my-portfolio" # <<--- CHANGE THIS if your repo name is different or it's a user page
+baseurl: "/KatonaLilla_Portfolio_pages" # <<--- CHANGE THIS if your repo name is different or it's a user page
 url: "https://ajskrim.github.io" # <<--- CHANGE 'yourusername'
 
 # Optional: Choose a GitHub Pages supported theme
