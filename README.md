@@ -14,8 +14,8 @@ This project focuses on analyzing HR data to answer key business questions relat
 * Charts: bar charts, pie charts, line charts, stacked bar charts, scatter plots
 * Conditional formatting: to highlight insights
 * Slicers: for interactive filtering of visuals
-  
 
+  ➡️ [View Excel Projects](./Excel%20Projects/)
 
 ----------------------------------------
 
