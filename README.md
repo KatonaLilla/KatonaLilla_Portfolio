@@ -41,3 +41,5 @@ This project focuses on analyzing HR data to answer key business questions relat
   * COALESCE
   * LPAD
   * DISTINCT
+    
+➡️ [View project](./SQL%20Projects/SQL%20Practice%20–%20Employee%20Insights/)
