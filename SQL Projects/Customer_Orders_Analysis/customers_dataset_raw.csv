@@ -1,0 +1,31 @@
+﻿customer_id;customer_name; city; country; registration_date 
+1;Alice Smith; New York; USA; 2022-01-10
+2;Bob Johnson; Los Angeles; USA; 2021-06-15
+3;Clara Wang; Toronto; Canada; 2023-03-12
+4;Daniel Kim; Seoul; South Korea; 2020-09-21
+5;Eva Müller; Berlin; Germany; 2019-07-01
+6;Frank Lee; San Francisco; USA; 2023-02-08
+7;Grace Chen; Taipei; Taiwan; 2020-11-03
+8;Henry Brown; Chicago; USA; 2021-12-20
+9;Isla Davis; London; UK; 2022-08-16
+10;Jack Wilson; Sydney; Australia; 2021-04-22
+11;Kira Novak; Prague; Czech Republic; 2023-01-05
+12;Leo Garcia; Madrid; Spain; 2022-06-11
+13;Mina Patel; Mumbai; India; 2020-10-10
+14;Noah Yamamoto; Osaka; Japan; 2019-03-17
+15;Olivia Zhang; Shanghai; China; 2023-05-02
+16;Paul O’Neil; Dublin; Ireland; 2021-07-30
+17;Quincy Wright; Boston; USA; 2022-12-01
+18;Rita Svensson; Stockholm; Sweden; 2020-02-14
+19;Samir Khan; Dubai; UAE; 2021-11-25
+20;Tina Lopez; Mexico City; Mexico; 2022-03-19
+21;Umar Farouk; Cairo; Egypt; 2020-08-08
+22;Valerie Costa; Lisbon; Portugal; 2021-09-09
+23;Wang Hao; Beijing; China; 2019-11-23
+24;Xander Dupont; Paris; France; 2023-04-14
+25;Yuki Tanaka; Tokyo; Japan; 2022-07-04
+26;Zara Ibrahim; Istanbul; Turkey; 2020-01-28
+27;Aaron Green; Toronto; Canada; 2021-05-18
+28;Bella Rossi; Rome; Italy; 2023-06-01
+29;Carlos Diaz; Barcelona; Spain; 2022-02-26
+30;Daria Petrova; Moscow; Russia; 2020-12-13
