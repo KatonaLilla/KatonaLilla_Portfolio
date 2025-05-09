@@ -27,6 +27,8 @@ This project focuses on analyzing HR data to answer key business questions relat
 [Link to About Page]({{ '/Excel Projects/' | relative_url }})
 ![My Image]({{ '/Excel Projects/Dasboard.png' | relative_url }})
 
+<a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a>
+
   ➡️ [View Excel Projects](./Excel%20Projects/)
 
 ----------------------------------------
