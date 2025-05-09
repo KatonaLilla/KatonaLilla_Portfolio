@@ -28,7 +28,8 @@ This project focuses on analyzing HR data to answer key business questions relat
   * subqueries / CASE WHEN
   * WHERE / GROUP BY / ORDER BY / LIMIT
   * SUM / AVG / COUNT / CAST / ROUND
-[Customer Orders Project](./customer-orders/)
+    
+➡️ [View project](./SQL%20Projects/Customer_Orders_Analysis/)
 
 ### 3. SQL Mini Project – Employee Insights (SQL)
 **Summary:** Created and analyzed a fictional HR dataset to practice common SQL functions in realistic business scenarios.
