@@ -24,6 +24,8 @@ This project focuses on analyzing HR data to answer key business questions relat
 * Slicers: for interactive filtering of visuals
 
 
+[Link to About Page]({{ '/Excel Projects/' | relative_url }})
+![My Image]({{ '/Excel Projects/Dasboard.png' | relative_url }})
 
   ➡️ [View Excel Projects](./Excel%20Projects/)
 
