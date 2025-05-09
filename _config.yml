@@ -1,0 +1,31 @@
+# _config.yml
+title: Katona Lilla - Portfolio
+email: katonalilla18@gmail.com 
+description: >-
+  This repository showcases a collection of data projects where I demonstrate my skills in **SQL**, **Excel**, and **data visualization**. Each project is designed to extract insights from raw data, solve real-world problems, and communicate results clearly and effectively.
+
+# IMPORTANT: Set baseurl
+# If your repo is "yourusername.github.io", set baseurl to "" (empty string) or "/"
+# If your repo is "yourusername/my-portfolio", set baseurl to "/my-portfolio"
+baseurl: "/KatonaLilla_Portfolio_pages" # <<--- CHANGE THIS if your repo name is different or it's a user page
+url: "https://ajskrim.github.io" # <<--- CHANGE 'yourusername'
+
+# Optional: Choose a GitHub Pages supported theme
+# Minima is a good default to start with if you don't specify one,
+# or you can explicitly set it or another supported theme.
+# theme: minima
+remote_theme: pages-themes/cayman@v0.2.0
+
+# Plugins (GitHub Pages supports these by default)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+# Exclude from processing.
+# You might add more here later if needed.
+exclude:
+  - README.md
+  - LICENSE.md
+
+
