@@ -10,6 +10,7 @@ description: >-
 baseurl: "/KatonaLilla_Portfolio_pages" # <<--- CHANGE THIS if your repo name is different or it's a user page
 url: "https://ajskrim.github.io" # <<--- CHANGE 'yourusername'
 
+
 # Optional: Choose a GitHub Pages supported theme
 # Minima is a good default to start with if you don't specify one,
 # or you can explicitly set it or another supported theme.
