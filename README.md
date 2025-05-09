@@ -20,6 +20,23 @@ This project focuses on analyzing HR data to answer key business questions relat
 ----------------------------------------
 
 ### 2. Customer Orders Analysis (SQL)
-**Tools used:** SQL (PostgreSQL), joins, subqueries, window functions  
-**Summary:** Wrote queries to extract insights from customer orders: average order value, top regions, retention rates.  
+**Summary:** Analyzed a customer orders dataset using SQL to extract key business insights. 
+**Tools & Skills Used:** 
+  * PostgreSQL - Visual Studio Code
+  * CREATE TABLE/ INSERT INTO
+  * LEFT JOIN/INNER JOIN,
+  * subqueries / CASE WHEN
+  * WHERE / GROUP BY / ORDER BY / LIMIT
+  * SUM / AVG / COUNT / CAST / ROUND
+[Customer Orders Project](./customer-orders/)
 
+### 3. SQL Mini Project – Employee Insights (SQL)
+**Summary:** Created and analyzed a fictional HR dataset to practice common SQL functions in realistic business scenarios.
+**Tools & Skills Used:** 
+  * PostgreSQL - Visual Studio Code
+  * CREATE TABLE/ INSERT INTO
+  * CONCAT
+  * CAST
+  * COALESCE
+  * LPAD
+  * DISTINCT
